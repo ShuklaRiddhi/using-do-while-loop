@@ -1,0 +1,11 @@
+statement- using do while loop print hello world
+public class main{
+public static void main(strings[] args){
+scanner in = new scanner(system.in){
+int n = 1;
+do {
+system.out.println("hello world");
+}
+while ( n != 1);
+}
+}
